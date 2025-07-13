@@ -322,3 +322,5 @@ Install dependencies with `yarn`, and finally run `yarn it` (or `npm run it`).
 ## License
 
 [MIT](./LICENSE)
+
+I wish I could auto merge
